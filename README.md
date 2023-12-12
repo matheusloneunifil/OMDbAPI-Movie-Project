@@ -6,7 +6,7 @@ This is an SPA(Single Page Application) that fetches information on a piece of m
 
 -Use the search bar to type the name of your movie, show, and even some albums, and click the "search" button to execute the task.\
 -The "reset" button will clear the information and allow for a new search.\
--The "favourite" button simulates the user being able to favorite movies.\
+-The "favourite" button simulates the user being able to favorite movies.
 
 ## Tech stack: 
 React(Redux+ OPENUI5) Typescript\
@@ -20,4 +20,4 @@ SCSS\
 -Download each folder, one being the API back-end, the other being the front-end App\
 -"npm install" on both applications\
 -"npm start" to run the applications\
--For code visualization, install Microsoft Visual Studio Code with the C/c++ Dev tools\
+-For code visualization, install Microsoft Visual Studio Code with the C/c++ Dev tools
