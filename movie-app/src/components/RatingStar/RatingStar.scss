@@ -1,0 +1,14 @@
+.rating-star {
+  display: flex;
+  margin-bottom: 14px;
+
+  ui5-icon {
+    font-size: 1.5rem; /* Adjust the font size as needed */
+    color: #f8c102; /* Adjust the star color as needed */
+    margin-right: 0.2rem; /* Adjust the margin between stars as needed */
+  }
+
+  .outline {
+    color: grey; /* Adjust the outline color as needed */
+  }
+}
