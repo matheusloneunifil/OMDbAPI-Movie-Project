@@ -11,7 +11,7 @@ This is an SPA(Single Page Application) that fetches information on a piece of m
 ## Tech stack: 
 React(Redux+ OPENUI5) Typescript\
 Node.js(Nest.js) Typescript\
-SCSS\
+SCSS
 
 
 ### Steps for installation and running:
